@@ -16,7 +16,7 @@ Fullstack with Node.js Express:
 > [Vue.js + Spring Boot + MongoDB](https://www.designmycodes.com/examples/spring-boot-vue-mongodb.html)
  -->
 Fullstack with Django:
-> [Vue.js + Django](https://www.designmycodes.com/examples/django-vue-js-rest-framework.html)
+> [Vue.js + Django](https://www.designmycodes.com/examples/django-postgresql-crud-rest-framework.html)
 
 ## Project setup
 ```
